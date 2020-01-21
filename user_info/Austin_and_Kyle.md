@@ -1,6 +1,6 @@
 # Team stormcloaks
 
-We are Team stormcloaks, and we taken arrows to the knee.
+We are Team stormcloaks, and we have taken arrows to the knee.
 
 Our team name is inspired by the video game Skyrim.
 
