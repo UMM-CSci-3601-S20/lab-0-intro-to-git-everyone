@@ -7,5 +7,5 @@
 ## Audrey Le Meur
 
 * I preferred to be called "Audrey".
-* My preferred pronouns are sher/her/hers.
+* My preferred pronouns are she/her/hers.
 * My Github username is `audreylemeur`.
