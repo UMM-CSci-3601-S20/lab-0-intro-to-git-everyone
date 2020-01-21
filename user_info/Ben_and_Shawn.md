@@ -1,3 +1,7 @@
+# Team Giteon Jura
+
+We like dumb puns and spent too long figuring this out!
+
 ## Benjamin Goldstein
 
 * I preferred to be called "Ben".
@@ -9,4 +13,3 @@
 * I preferred to be called "Shawn".
 * My preferred pronouns are he/him/his.
 * My Github username is `reuterShawn`.
-* 
