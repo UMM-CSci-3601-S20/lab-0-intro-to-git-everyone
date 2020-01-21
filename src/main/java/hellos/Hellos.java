@@ -17,18 +17,30 @@ public class Hellos {
     StringBuilder builder = new StringBuilder();
 
     builder.append(WELCOME_LINE + "\n");
+    builder.append(austinSaysHello());
     builder.append(kkSaysHello());
+    builder.append(kyleSaysHello());
     builder.append(nicSaysHello());
 
     return builder.toString();
+  }
+
+  private static String austinSaysHello(){
+    return "Austin says 'Hello!'\n";
+  }
+
+  private static String kkSaysHello() {
+    return "KK says 'Hello!'\n";
+  }
+
+  private static String kyleSaysHello() {
+    return "Kyle says 'Hi!'\n";
   }
 
   private static String nicSaysHello() {
     return "Nic says 'Howdy!'\n";
   }
 
-  private static String kkSaysHello() {
-    return "KK says 'Hello!'\n";
-  }
+
 
 }
