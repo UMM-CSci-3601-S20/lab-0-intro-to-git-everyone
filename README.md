@@ -1,16 +1,7 @@
 # Introduction to `git`
 
-!["Broken" badge to remind us to fix the URLs on the "real" badges](https://img.shields.io/badge/FIX_BADGES-Badges_below_need_to_be_updated-red)
-
-:bangbang: Each semester _after creating the instance in GitHub Classroom_, 
-we need to fix (in the GitHub Classroom "fork") the URLs in the badges
-below so they point to that semester's repository instead of the
-"master" repo. Then remove this note and the broken badge above in
-the fork. (We should leave this in the copy in the "master"
-repository so it's there each semester when we fork this.)
-
-![Continuous integration status](https://github.com/UMM-CSci-3601/intro-to-git/workflows/Java%20CI/badge.svg)
-[![Total alerts](https://img.shields.io/lgtm/alerts/g/UMM-CSci-3601/intro-to-git.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/UMM-CSci-3601/intro-to-git/alerts/)
+![Continuous integration status](https://github.com/UMM-CSci-3601-S20/lab-0-intro-to-git-everyone/workflows/Java_CI/badge.svg)
+[![Total alerts](https://img.shields.io/lgtm/alerts/g/UMM-CSci-3601-S20/lab-0-intro-to-git-everyone.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/UMM-CSci-3601-20/lab-0-intro-to-git-everyone/alerts/)
 
 - [Introduction to `git`](#introduction-to-git)
   - [Background](#background)
