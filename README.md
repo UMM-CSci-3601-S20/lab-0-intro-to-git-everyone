@@ -223,7 +223,7 @@ what Gradle is and how we're using it.
 
 For the moment there are two things to try on the command line. Make sure you're
 _in_ the directory containing your clone of the repo (i.e., you're in the
-`intro-to-git` directory) and then run
+`lab-0-intro-to-git-everyone` directory) and then run
 
 ```bash
 ./gradlew run
