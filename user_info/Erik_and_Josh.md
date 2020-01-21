@@ -5,7 +5,7 @@ We are team EJ - creative
 ## Erik Rauer
 * My preferred name is Erik
 * My preferred pronouns are he/him/his
-* My github usernmae is `ErikRauer`.
+* My github username is `ErikRauer`.
 
 ## Joshua Hamann
 
