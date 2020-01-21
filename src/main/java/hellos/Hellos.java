@@ -17,8 +17,11 @@ public class Hellos {
     StringBuilder builder = new StringBuilder();
 
     builder.append(WELCOME_LINE + "\n");
+    builder.append(erikSaysHello());
+    builder.append(joshuaSaysHello());
     builder.append(kkSaysHello());
     builder.append(nicSaysHello());
+
 
     return builder.toString();
   }
@@ -29,6 +32,14 @@ public class Hellos {
 
   private static String kkSaysHello() {
     return "KK says 'Hello!'\n";
+  }
+
+  private static String erikSaysHello() {
+    return "Erik says 'Hello is fine!'\n";
+  }
+
+  private static String joshuaSaysHello(){
+    return "Joshua says 'Guten Tag!'\n";
   }
 
 }
