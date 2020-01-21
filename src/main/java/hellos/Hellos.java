@@ -18,8 +18,10 @@ public class Hellos {
 
     builder.append(WELCOME_LINE + "\n");
     builder.append(aaronSaysHello());
+    builder.append(audreySaysHello());
     builder.append(benjaminSaysHello());
     builder.append(cookieSaysHello());
+    builder.append(jakeSaysHello());
     builder.append(joeSaysHello());
     builder.append(kkSaysHello());
     builder.append(lukeSaysHello());
