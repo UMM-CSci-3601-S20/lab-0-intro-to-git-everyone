@@ -18,21 +18,39 @@ public class Hellos {
 
     builder.append(WELCOME_LINE + "\n");
     builder.append(aaronSaysHello());
+    builder.append(aaronSaysHello());
+    builder.append(audreySaysHello());
     builder.append(audreySaysHello());
     builder.append(austinSaysHello());
     builder.append(baileySaysHello());
+    builder.append(baileySaysHello());
+    builder.append(benjaminSaysHello());
+    builder.append(benjaminSaysHello());
     builder.append(benjaminSaysHello());
     builder.append(bobSaysHello());
+    builder.append(bobSaysHello());
+    builder.append(cookieSaysHello());
     builder.append(cookieSaysHello());
     builder.append(erikSaysHello());
+    builder.append(erikSaysHello());
+    builder.append(jakeSaysHello());
     builder.append(jakeSaysHello());
     builder.append(joeSaysHello());
+    builder.append(joeSaysHello());
+    builder.append(joshuaSaysHello());
     builder.append(joshuaSaysHello());
     builder.append(kkSaysHello());
+    builder.append(kkSaysHello());
+    builder.append(kyleSaysHello());
     builder.append(kyleSaysHello());
     builder.append(lukeSaysHello());
+    builder.append(lukeSaysHello());
+    builder.append(nicSaysHello());
     builder.append(nicSaysHello());
     builder.append(trentSaysHello());
+    builder.append(trentSaysHello());
+
+
 
 
 
