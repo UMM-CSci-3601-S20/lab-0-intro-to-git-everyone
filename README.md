@@ -1,6 +1,6 @@
 # Introduction to `git`
 
-![Continuous integration status](https://github.com/UMM-CSci-3601-S20/lab-0-intro-to-git-everyone/workflows/Java_CI/badge.svg)
+[![Continuous integration status](https://github.com/UMM-CSci-3601-S20/lab-0-intro-to-git-everyone/workflows/Java_CI/badge.svg)](https://github.com/UMM-CSci-3601-S20/lab-0-intro-to-git-everyone/actions)
 [![Total alerts](https://img.shields.io/lgtm/alerts/g/UMM-CSci-3601-S20/lab-0-intro-to-git-everyone.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/UMM-CSci-3601-20/lab-0-intro-to-git-everyone/alerts/)
 
 - [Introduction to `git`](#introduction-to-git)
