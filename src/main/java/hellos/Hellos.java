@@ -25,27 +25,17 @@ public class Hellos {
     builder.append(bobSaysHello());
     builder.append(cookieSaysHello());
     builder.append(erikSaysHello());
-<<<<<<< HEAD
+    builder.append(firasSaysHello());
     builder.append(jackSaysHello());
     builder.append(jakeSaysHello());
     builder.append(joeSaysHello());
-    builder.append(johannesSaysHello());
-=======
-    builder.append(firasSaysHello());
-    builder.append(jakeSaysHello());
-    builder.append(joeSaysHello());
     builder.append(jonahSaysHello());
->>>>>>> master
     builder.append(joshuaSaysHello());
     builder.append(kkSaysHello());
     builder.append(kyleSaysHello());
     builder.append(lukeSaysHello());
     builder.append(nicSaysHello());
     builder.append(trentSaysHello());
-
-
-
-
 
     return builder.toString();
   }
