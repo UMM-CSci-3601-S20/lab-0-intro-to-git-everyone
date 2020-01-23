@@ -23,12 +23,15 @@ public class Hellos {
     builder.append(benjaminSaysHello());
     builder.append(bobSaysHello());
     builder.append(cookieSaysHello());
+    builder.append(erikSaysHello());
     builder.append(jakeSaysHello());
     builder.append(joeSaysHello());
+    builder.append(joshuaSaysHello());
     builder.append(kkSaysHello());
     builder.append(lukeSaysHello());
     builder.append(nicSaysHello());
     builder.append(trentSaysHello());
+
 
 
     return builder.toString();
@@ -79,4 +82,12 @@ public class Hellos {
   private static String trentSaysHello() {
     return "Trent says 'Sup!'\n";
   }
+  private static String erikSaysHello() {
+    return "Erik says 'Hello is fine!'\n";
+  }
+
+  private static String joshuaSaysHello(){
+    return "Joshua says 'Guten Tag!'\n";
+  }
+
 }
