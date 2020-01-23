@@ -21,6 +21,7 @@ public class Hellos {
     builder.append(audreySaysHello());
     builder.append(austinSaysHello());
     builder.append(baileySaysHello());
+    builder.append(benSaysHello());
     builder.append(benjaminSaysHello());
     builder.append(bobSaysHello());
     builder.append(cookieSaysHello());
@@ -36,6 +37,7 @@ public class Hellos {
     builder.append(kyleSaysHello());
     builder.append(lukeSaysHello());
     builder.append(nicSaysHello());
+    builder.append(shawnSaysHello());
     builder.append(trentSaysHello());
 
     return builder.toString();
@@ -54,6 +56,15 @@ public class Hellos {
   private static String benjaminSaysHello() {
     return "Benjamin says 'Howdy!'\n";
   }
+
+  private static String benSaysHello() {
+    return "Ben says 'Hi!'\n";
+  }
+
+  private static String shawnSaysHello() {
+    return "Shawn says 'Hello!'\n";
+  }
+
 
   private static String joeSaysHello() {
     return "Joe says 'Hello hello!'\n";
