@@ -24,13 +24,14 @@ public class Hellos {
     builder.append(bobSaysHello());
     builder.append(cookieSaysHello());
     builder.append(erikSaysHello());
+    builder.append(firasSaysHello());
     builder.append(jakeSaysHello());
     builder.append(joeSaysHello());
+    builder.append(jonahSaysHello());
     builder.append(joshuaSaysHello());
     builder.append(kkSaysHello());
     builder.append(lukeSaysHello());
     builder.append(nicSaysHello());
-    builder.append(trentSaysHello());
 
 
 
@@ -79,8 +80,9 @@ public class Hellos {
   private static String jakeSaysHello() {
     return "Jake says 'Hello!'\n";
   }
-  private static String trentSaysHello() {
-    return "Trent says 'Sup!'\n";
+
+  private static String firasSaysHello() {
+    return "Firas says 'Hello!'\n";
   }
   private static String erikSaysHello() {
     return "Erik says 'Hello is fine!'\n";
@@ -90,4 +92,8 @@ public class Hellos {
     return "Joshua says 'Guten Tag!'\n";
   }
 
+
+  private static String jonahSaysHello() {
+    return "Jonah says 'Hello!'\n";
+  }
 }
